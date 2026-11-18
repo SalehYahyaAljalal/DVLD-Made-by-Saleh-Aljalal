@@ -1,0 +1,24 @@
+C:\Users\pc\source\repos\DataAccessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+C:\Users\pc\source\repos\DataAccessLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+C:\Users\pc\source\repos\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.dll
+C:\Users\pc\source\repos\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.pdb
+E:\CCNA\DataAccessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+E:\CCNA\DataAccessLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+E:\CCNA\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.csproj.AssemblyReference.cache
+E:\CCNA\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.csproj.CoreCompileInputs.cache
+E:\CCNA\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.dll
+E:\CCNA\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.pdb
+E:\a\DataAccessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+E:\a\DataAccessLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+E:\a\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.csproj.AssemblyReference.cache
+E:\a\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.csproj.CoreCompileInputs.cache
+E:\a\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.dll
+E:\a\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.pdb
+D:\My_Projects\Programming\DVLD Project\DataAccessLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+D:\My_Projects\Programming\DVLD Project\DataAccessLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+D:\My_Projects\Programming\DVLD Project\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.csproj.AssemblyReference.cache
+D:\My_Projects\Programming\DVLD Project\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.csproj.CoreCompileInputs.cache
+D:\My_Projects\Programming\DVLD Project\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.dll
+D:\My_Projects\Programming\DVLD Project\DataAccessLayerDVLD\obj\Debug\DataAccessLayerDVLD.pdb

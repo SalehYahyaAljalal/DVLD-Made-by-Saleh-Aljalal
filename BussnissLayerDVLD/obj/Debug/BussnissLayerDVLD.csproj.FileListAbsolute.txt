@@ -1,0 +1,36 @@
+C:\Users\pc\source\repos\BussnissLayerDVLD\bin\Debug\BussnissLayerDVLD.dll
+C:\Users\pc\source\repos\BussnissLayerDVLD\bin\Debug\BussnissLayerDVLD.pdb
+C:\Users\pc\source\repos\BussnissLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+C:\Users\pc\source\repos\BussnissLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+C:\Users\pc\source\repos\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.CopyComplete
+C:\Users\pc\source\repos\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.dll
+C:\Users\pc\source\repos\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.pdb
+E:\CCNA\BussnissLayerDVLD\bin\Debug\BussnissLayerDVLD.dll
+E:\CCNA\BussnissLayerDVLD\bin\Debug\BussnissLayerDVLD.pdb
+E:\CCNA\BussnissLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+E:\CCNA\BussnissLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+E:\CCNA\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.AssemblyReference.cache
+E:\CCNA\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.CoreCompileInputs.cache
+E:\CCNA\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.CopyComplete
+E:\CCNA\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.dll
+E:\CCNA\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.pdb
+E:\a\BussnissLayerDVLD\bin\Debug\BussnissLayerDVLD.dll
+E:\a\BussnissLayerDVLD\bin\Debug\BussnissLayerDVLD.pdb
+E:\a\BussnissLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+E:\a\BussnissLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+E:\a\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.AssemblyReference.cache
+E:\a\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.CoreCompileInputs.cache
+E:\a\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.CopyComplete
+E:\a\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.dll
+E:\a\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.pdb
+D:\My_Projects\Programming\DVLD Project\BussnissLayerDVLD\bin\Debug\BussnissLayerDVLD.dll
+D:\My_Projects\Programming\DVLD Project\BussnissLayerDVLD\bin\Debug\BussnissLayerDVLD.pdb
+D:\My_Projects\Programming\DVLD Project\BussnissLayerDVLD\bin\Debug\DataAccessLayerDVLD.dll
+D:\My_Projects\Programming\DVLD Project\BussnissLayerDVLD\bin\Debug\DataAccessLayerDVLD.pdb
+D:\My_Projects\Programming\DVLD Project\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.AssemblyReference.cache
+D:\My_Projects\Programming\DVLD Project\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.CoreCompileInputs.cache
+D:\My_Projects\Programming\DVLD Project\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.csproj.CopyComplete
+D:\My_Projects\Programming\DVLD Project\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.dll
+D:\My_Projects\Programming\DVLD Project\BussnissLayerDVLD\obj\Debug\BussnissLayerDVLD.pdb
